@@ -27,6 +27,10 @@ v0.2:
 * 添加USBmap,并且注入电源属性,支持iphone/ipad 2.1A快充.
 
 
+CPU 死机问题参考此链接解决。
+`https://post.smzdm.com/p/an977vm0/`
+主要为修改CPU缓存倍频限制在3.6Ghz以下。
+
 
 在此之外，尝试过一些收费方案，但都卡死在第二安装阶段，“At least 25 minuits ....”，具体原因暂时未查明。
 
